@@ -1,13 +1,13 @@
 {
   "name": "ember-load-css",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember CLI wrapper for loadCSS",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
-  "repository": "",
+  "author": "Marten Schilstra <mail@martenschilstra.nl>",
+  "repository": "https://github.com/DockYard/ember-load-css",
   "dependencies": {
     "broccoli-funnel": "^1.1.0",
     "broccoli-merge-trees": "^2.0.0",
