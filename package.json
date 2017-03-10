@@ -1,0 +1,16 @@
+{
+  "name": "ember-load-css",
+  "version": "0.0.0",
+  "description": "The default blueprint for ember-cli addons.",
+  "keywords": [
+    "ember-addon"
+  ],
+  "license": "MIT",
+  "author": "",
+  "repository": "",
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  }
+}
