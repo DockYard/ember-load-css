@@ -1,27 +1,13 @@
 # ember-load-css
 
-This README outlines the details of collaborating on this Ember addon.
+Injects the loadCSS & link[rel=preload] polyfill into index.html.
 
-## Installation
+See: https://github.com/filamentgroup/loadCSS
 
-* `git clone <repository-url>` this repository
-* `cd ember-load-css`
-* `npm install`
-* `bower install`
+## Legal
 
-## Running
+[DockYard](http://dockyard.com/), Inc. &copy; 2016
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+[@dockyard](http://twitter.com/dockyard)
 
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+[Licensed under the MIT license](http://www.opensource.org/licenses/mit-license.php)
